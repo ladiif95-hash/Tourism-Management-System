@@ -1,0 +1,24 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+
+## Logs
+*.log
+
+## Rider
+.idea/
+
+## OS files
+Thumbs.db
+desktop.ini
+ehthumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
